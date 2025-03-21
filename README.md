@@ -50,7 +50,10 @@ Ce projet a été conçu dans le cadre d’un projet pédagogique pour un étudi
 │   ├── testIP.sh         # Ping d'une adresse IP
 │   ├── testTCP.sh        # Test d’un port TCP
 │   ├── checkValid.sh     # Vérification d'adresses IP
-│   └── generTxt.sh       # Génération d’un .txt d’IP
+│   ├── generTxt.sh       # Génération d’un .txt d’IP
+│   ├── setSwitchIP.sh    # Configurer l'IP du switch/routeur
+│   ├── snmpSwitch.sh     # Interroger un switch SNMP
+│   └── deploy_switch_snmp.sh # Accéder à la gestion du switch SNMP
 └── myGestIOnR.sql        # Script SQL de la base de données
 ```
 
